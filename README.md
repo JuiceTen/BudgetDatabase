@@ -13,3 +13,5 @@ run npm install to install all necessary dependencies.
 npm start to run the server on your own local host.
 
 ### Deployed Heroku
+
+https://fast-springs-43526.herokuapp.com/
